@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "GOOD TIMES",
+  "base_artist": "Jungle",
+  "createdAt": "2026-02-25T02:58:49.239490Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Are the Good Times Really Over (I Wish a Buck Was Still Silver) - Single Version",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/01_Are_the_Good_Times_Really_Over_(I_Wish_a_Buck_Was_Still_Silver)_-_Single_Version_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Are The Good Times Really Over (I Wish A Buck Was Still Silver) (Album Version)",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/02_Are_The_Good_Times_Really_Over_(I_Wish_A_Buck_Was_Still_Silver)_(Album_Version)_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "For the Good Times",
+      "artist": "Ray Price",
+      "has_synced": false,
+      "path": "select/03_For_the_Good_Times_Ray_Price.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "For The Good Times",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/04_For_The_Good_Times_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "For the Good Times",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/05_For_the_Good_Times_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "For the Good Times",
+      "artist": "Ray Price",
+      "has_synced": true,
+      "path": "select/06_For_the_Good_Times_Ray_Price.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "For the Good Times (Album Version)",
+      "artist": "Ray Price",
+      "has_synced": false,
+      "path": "select/07_For_the_Good_Times_(Album_Version)_Ray_Price.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Times",
+      "artist": "Dan Seals",
+      "has_synced": true,
+      "path": "select/08_Good_Times_Dan_Seals.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Times Roll",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/09_Good_Times_Roll_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Where Does the Good Times Go",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/10_Where_Does_the_Good_Times_Go_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Times Roll Pt. 2",
+      "artist": "RJD2",
+      "has_synced": true,
+      "path": "select/11_Good_Times_Roll_Pt._2_RJD2.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Where Have All The Good Times Gone - 2015 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/12_Where_Have_All_The_Good_Times_Gone_-_2015_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Where Have All The Good Times Gone",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/13_Where_Have_All_The_Good_Times_Gone_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Times",
+      "artist": "Yazoo",
+      "has_synced": true,
+      "path": "select/14_Good_Times_Yazoo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Times Interlude (feat. Syke 800, Duce, Marley Blu & Burnt Out)",
+      "artist": "YG feat. Syke 800, Duce, Marley Blu & Burnt Out",
+      "has_synced": true,
+      "path": "select/15_Good_Times_Interlude_(feat._Syke_800,_Duce,_Marley_Blu_&_Burnt_Out)_YG_feat._Syke_800,_Duce,_Marley_Blu_&_Burnt_Out.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Good Times Interlude (Feat. Syke 800, Duce, Marley Blu, Burnt Out)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/16_Good_Times_Interlude_(Feat._Syke_800,_Duce,_Marley_Blu,_Burnt_Out)_YG.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Gimmie Some Good Times",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/17_Gimmie_Some_Good_Times_Lou_Reed.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOOD TIMES",
+      "artist": "Jungle",
+      "has_synced": false,
+      "path": "select/pl_01_GOOD_TIMES_Jungle.txt"
+    }
+  ]
+}
